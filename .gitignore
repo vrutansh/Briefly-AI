@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 .venv1/
 
 
 
+=======
+>>>>>>> 27bd8bf85e65485e4e26e760c948a595b24533f8
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -222,4 +225,8 @@ __marimo__/
 .streamlit/secrets.toml
 
 
+<<<<<<< HEAD
 .env
+=======
+.env
+>>>>>>> 27bd8bf85e65485e4e26e760c948a595b24533f8
