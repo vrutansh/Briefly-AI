@@ -63,5 +63,5 @@ def process_input(source: str) -> list:
     
     print(f"Chunking audio into segments...")
     chunk_paths = chunk_audio(wav_path)
-    print(f"Audio ready - {len(chunks)} chunk(s) created,")
+    print(f"Audio ready - {len(chunk_paths)} chunk(s) created,")
     return chunk_paths
