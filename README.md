@@ -249,8 +249,4 @@ MIT License
 
 ---
 
-# 👨‍💻 Author
 
-Built by Vrutansh
-
-GitHub: [vrutansh/Briefly-AI](https://github.com/vrutansh/Briefly-AI?utm_source=chatgpt.com)
